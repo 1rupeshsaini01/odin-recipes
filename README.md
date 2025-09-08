@@ -1,2 +1,2 @@
-This project was made as per the assignment give by THE ODIN PROJECt after html foundations chapter.
+This project was made as per the assignment given by THE ODIN PROJECt after html foundations chapter.
 I've added two recipes. i dont know what these dishes are but their names sounded fascinating to me.
