@@ -1,2 +1,2 @@
-So this project is for testing our html skills that we have gathered till now 
-And i think this is gonna be about some recipes
+This project was made as per the assignment give by THE ODIN PROJECt after html foundations chapter.
+I've added two recipes. i dont know what these dishes are but their names sounded fascinating to me.
