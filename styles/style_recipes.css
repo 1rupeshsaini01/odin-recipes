@@ -1,0 +1,36 @@
+body {
+    background-color: #6bb5e2;
+    color: white;
+
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: rgb(27, 103, 174);
+    font-family: "DynaPuff";
+    font-weight: 100;
+}
+img {
+    border-radius: 20px;
+}
+p,li,a {
+    font-weight: 500;
+    font-family: FiraCode Nerd Font;
+    color: #1e1515;
+}
+
+.back {
+    color: #000000;
+}
+
+
+/*
+ul {
+    color: purple;
+}
+li {
+    background-color: blue;
+    color: white;
+}
+* {
+    text-align: center;
+}
