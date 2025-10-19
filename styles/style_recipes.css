@@ -1,3 +1,4 @@
+
 body {
     background-color: #6bb5e2;
     color: white;
@@ -23,7 +24,8 @@ p,li,a {
 }
 
 
-/*
+/* FIX FIRA CODE NOT SHOWING ISSUE 
+
 ul {
     color: purple;
 }
